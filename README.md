@@ -1,52 +1,64 @@
+<div align="center">
+
 # 🍔 Food Delivery Business Intelligence Dashboard
 
-> **An end-to-end Business Intelligence solution built using SQL, Snowflake, Excel, and Power BI to analyze customer behavior, restaurant performance, sales trends, and operational KPIs.**
+### End-to-End Data Analytics Project using SQL • Snowflake • Power BI • Excel
+
+<p>
+An interactive Business Intelligence dashboard designed to analyze customer behavior, restaurant performance, delivery trends, and key business metrics to support data-driven decision-making.
+</p>
 
 ---
 
+## 🛠️ Technologies Used
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
 
 # 📌 Project Overview
 
-This project provides **actionable business insights** by analyzing food delivery data through an interactive Power BI dashboard. It helps stakeholders monitor business performance, understand customer behavior, evaluate restaurant performance, and support data-driven decision-making.
+This project demonstrates an **end-to-end Business Intelligence solution** for a food delivery platform. By leveraging **SQL**, **Snowflake**, **Excel**, and **Power BI**, the dashboard transforms raw data into actionable insights that help monitor business performance, understand customer behavior, and evaluate restaurant performance.
 
+---
 
 # 🎯 Business Objectives
 
-- Analyze **customer ordering patterns**
-- Evaluate **restaurant performance**
-- Monitor **business KPIs**
-- Identify **top-performing cities and restaurants**
-- Support **business decision-making** with interactive dashboards
+- 📦 Analyze customer ordering behavior
+- 🍽️ Evaluate restaurant performance
+- 💰 Monitor revenue and sales trends
+- 🌍 Compare city-wise performance
+- 📊 Track key business KPIs
+- 📈 Enable data-driven decision-making
 
 ---
 
-# 🛠️ Tools & Technologies
+# 📊 Key Performance Indicators
 
-- **SQL**
-- **Snowflake**
-- **Power BI**
-- **Microsoft Excel**
-
----
-
-# 📊 Key Performance Indicators (KPIs)
-
-- 📦 **Total Orders**
-- 💰 **Total Revenue**
-- 👥 **Total Customers**
-- 🍽️ **Restaurant Performance**
-- 🌍 **City-wise Performance**
-  
+- ✅ Total Orders
+- ✅ Total Revenue
+- ✅ Total Customers
+- ✅ Average Order Value
+- ✅ Restaurant Performance
+- ✅ City-wise Analysis
+- ✅ Delivery Performance
 
 ---
 
 # 📷 Dashboard Preview
 
-### Dashboard Overview
+## Dashboard Overview
 
 ![Dashboard Overview](Screenshot%201.png)
 
-### Customer & Restaurant Analysis
+---
+
+## Customer & Restaurant Analysis
 
 ![Customer Analysis](Screenshot%202.png)
 
@@ -54,55 +66,78 @@ This project provides **actionable business insights** by analyzing food deliver
 
 # 💼 Skills Demonstrated
 
-✔ Data Cleaning
-✔ SQL Queries
-✔ Data Modeling
-✔ ETL Concepts
-✔ Dashboard Development
-✔ KPI Reporting
-✔ Data Visualization
-✔ Business Intelligence
-✔ Analytical Thinking
+- SQL Queries
+- Data Cleaning
+- Data Modeling
+- ETL Concepts
+- Business Intelligence
+- Power BI Dashboard Development
+- KPI Reporting
+- Data Visualization
+- Analytical Thinking
 
 ---
 
 # 📈 Key Insights
 
-- Identified **top-performing restaurants** based on revenue and order volume.
-- Analyzed **customer purchasing behavior** across different cities.
-- Monitored **sales trends** using interactive visualizations.
-- Evaluated **restaurant performance** using key business metrics.
-- Built an **interactive dashboard** to support business decisions.
+- Identified top-performing restaurants based on revenue and order volume.
+- Analyzed customer purchasing behavior across multiple cities.
+- Compared restaurant performance using interactive KPIs.
+- Monitored revenue trends through dynamic dashboards.
+- Delivered business insights to support strategic decision-making.
 
 ---
 
 # 💡 Business Recommendations
 
-- Increase marketing in **high-performing cities**.
-- Improve delivery efficiency in **low-performing regions**.
-- Strengthen partnerships with **top-performing restaurants**.
-- Use customer insights to create **targeted promotions**.
+- Increase marketing efforts in high-performing cities.
+- Improve delivery efficiency in underperforming regions.
+- Strengthen partnerships with top-performing restaurants.
+- Use customer insights for targeted promotional campaigns.
+- Monitor KPIs regularly to improve business performance.
 
 ---
 
 # 📂 Repository Contents
 
-📊 **Power BI Dashboard (.pbix)**
+📊 Power BI Dashboard (.pbix)
 
-🗄️ **SQL Scripts**
+🗄️ SQL Scripts
 
-📄 **Project Report**
+📄 Project Report
 
-📷 **Dashboard Screenshots**
+📷 Dashboard Screenshots
 
-📁 **Dataset**
+📁 Dataset
 
 ---
 
-# 👩‍💻 Author
+# 🚀 Project Highlights
 
-## **Jayasree M**
+✔ End-to-End Analytics Project
 
-**Aspiring Data Analyst**
+✔ Interactive Power BI Dashboard
 
-**Skills:** SQL • Snowflake • Power BI • Excel • Data Visualization
+✔ SQL-Based Data Analysis
+
+✔ Snowflake Cloud Data Warehouse
+
+✔ Business KPI Reporting
+
+✔ Actionable Business Insights
+
+---
+
+<div align="center">
+
+## 👩‍💻 Author
+
+# **Jayasree M**
+
+### Aspiring Data Analyst
+
+**SQL • Snowflake • Power BI • Excel**
+
+⭐ If you found this project interesting, don't forget to **Star** this repository!
+
+
