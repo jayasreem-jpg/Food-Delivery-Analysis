@@ -1,6 +1,6 @@
-# Food-Delivery-Analysis
+🍔 Food Delivery Business Intelligence Dashboard
 End-to-End Food Delivery Data Analysis using SQL, Snowflake, Excel and Power BI
-# 🍔 Food Delivery Data Analysis
+# 🍔 Food & Restaurant Data Analysis
 
 ## 📌 Project Overview
 This project analyzes food delivery data to identify customer behavior, restaurant performance, order trends, and business insights using SQL, Snowflake, Excel, and Power BI.
