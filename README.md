@@ -14,7 +14,18 @@ This project analyzes food delivery data to identify customer behavior, restaura
 - Microsoft Excel
 
 ---
+## 💼 Skills Demonstrated
 
+- Data Cleaning
+- SQL Joins
+- Aggregations
+- Power BI Dashboard Development
+- Data Modeling
+- Business Intelligence
+- Data Visualization
+- KPI Reporting
+
+  
 ## 📊 Dashboard Features
 - Total Orders
 - Revenue Analysis
